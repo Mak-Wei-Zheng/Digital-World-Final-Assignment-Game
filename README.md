@@ -21,3 +21,6 @@ invalid input formats such as putting a letter when a number is asked for will r
 invalid numbers out of the range from 1 to 10 will default the guess to 1...
 invalid spell inputs default to "N" indicating no spell cast
 
+## Gameplay:
+Quick Run-through of gameplay can be found at:
+https://www.youtube.com/watch?v=mFQRQQF6aEA
